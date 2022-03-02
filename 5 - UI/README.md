@@ -1,7 +1,3 @@
-# Launch X - Frontend Mission - Intro
-
-## Ejercicios de diseño de UI - Abogabot
-
-Aldo Santiago
+# UI
 
 ![rocket](../img/rocket.png)
