@@ -1,3 +1,3 @@
-# Buyer Persona
+# UI
 
 ![rocket](../img/rocket.gif)

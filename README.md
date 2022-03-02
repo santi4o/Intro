@@ -18,8 +18,8 @@ Descripción:
 - La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 **Prácticas**
-- [Toma de requerimientos](./1-Requerimientos/README.md)
-- [Buyer Persona](./1-Requerimientos/README.md)
-- [Público objetivo](./1-Requerimientos/README.md)
-- [Wireframes](./1-Requerimientos/README.md)
-- [Diseño de UI](./1-Requerimientos/README.md)
+- [Toma de requerimientos](./1-Requerimientos/Práctica_de_requerimientos.pdf)
+- [Buyer Persona](./2-BuyerPersona/Buyer_Persona.pdf)
+- [Público objetivo](./3-Público_objetivo/Público_objetivo.jpg)
+- [Wireframes](./4-Wireframes/Wireframe.pdf)
+- [Diseño de UI](./5-UI/README.md)
