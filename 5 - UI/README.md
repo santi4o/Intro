@@ -4,4 +4,4 @@
 
 Aldo Santiago
 
-![rocket](img/rocket.png)
+![rocket](../img/rocket.png)
